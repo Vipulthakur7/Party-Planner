@@ -1,5 +1,5 @@
 # Party-Planner
-# 🎉 Party Planner App
+# 🎉 Party Planner Website
 
 A sleek React + Firebase web app to plan company parties and manage RSVPs easily. Create a party, share the RSVP link with your team, and get real-time responses. Built for simplicity and mobile-friendly experiences.  
 
